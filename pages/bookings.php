@@ -403,7 +403,7 @@ if (empty($bookings) && isset($_GET['test_insert'])) {
     <!-- Include Custom CSS -->
     <link rel="stylesheet" href="assets/css/style.css">
     <!-- Google Maps API -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCS7rhxuCiYKeXpraOxq-GJCrYTmPiSaMU&libraries=places,geometry" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_GMAP_API_KEY&libraries=places,geometry" async defer></script>
     <style>
         .status-tab {
             cursor: pointer;

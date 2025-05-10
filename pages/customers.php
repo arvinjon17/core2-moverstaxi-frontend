@@ -636,7 +636,7 @@ try {
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     
     <!-- Google Maps API -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCS7rhxuCiYKeXpraOxq-GJCrYTmPiSaMU&libraries=places"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_GMAP_API_KEY&libraries=places"></script>
 
     <!-- Customer Details Modal Script -->
     <script src="assets/js/customer-details-modal.js"></script>

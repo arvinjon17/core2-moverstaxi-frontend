@@ -572,7 +572,7 @@ if (!isLoggedIn()) {
 </div>
 
 <!-- Google Maps API Script -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCS7rhxuCiYKeXpraOxq-GJCrYTmPiSaMU&libraries=places"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_GMAP_API_KEY&libraries=places"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>

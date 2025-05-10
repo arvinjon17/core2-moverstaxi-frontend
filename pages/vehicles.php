@@ -390,7 +390,7 @@ if (empty($bookings) && isset($_GET['test_insert'])) {
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css">
     
     <!-- Add Google Maps API -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCS7rhxuCiYKeXpraOxq-GJCrYTmPiSaMU&libraries=places"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_GMAP_API_KEY&libraries=places"></script>
     
     <!-- Add DataTables JS -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>

@@ -305,7 +305,7 @@ if (!hasPermission('manage_bookings')) {
     <!-- JavaScript Libraries (jQuery, Bootstrap) are loaded in the main template -->
     
     <!-- Google Maps API -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCS7rhxuCiYKeXpraOxq-GJCrYTmPiSaMU&libraries=places&callback=initMap" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_GMAP_API_KEY&libraries=places&callback=initMap" async defer></script>
     
     <!-- Main JavaScript for Dispatch -->
     <script>
